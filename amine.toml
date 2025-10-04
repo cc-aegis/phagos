@@ -8,5 +8,5 @@ updates-per-cycle = 65536
 
 [plugins]
 print-dbg = {}
-limit-clock-speed = { ips = 20_000_000 }
+limit-clock-speed = { ips = 1_000_000 } # 20_000_000
 ram-view = {}
